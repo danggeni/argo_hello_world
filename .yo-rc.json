@@ -44,6 +44,7 @@
     "kubernetesServiceType": "NodePort",
     "ingressDomain": "",
     "monitoring": "no",
-    "istio": false
+    "istio": false,
+    "kubernetesUseDynamicStorage": false
   }
 }

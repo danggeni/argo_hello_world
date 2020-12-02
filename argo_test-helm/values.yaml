@@ -1,0 +1,4 @@
+postgresql:
+  enabled: true
+  postgresqlUsername: argo_test
+  postgresqlDatabase: argo_test
